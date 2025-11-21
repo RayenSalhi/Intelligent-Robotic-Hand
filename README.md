@@ -28,7 +28,7 @@ An academic project that combines computer vision, embedded systems, and mechani
 ---
 
 ## 🛠️ Tech Stack  
-- **Python** (OpenCV / MediaPipe or custom CV algorithms)  
+- **Python** (OpenCV)  
 - **STM32 HAL / CubeMX**  
 - **Fusion 360**  
 - **Servo Motors**  

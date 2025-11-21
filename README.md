@@ -23,7 +23,8 @@ An academic project that combines computer vision, embedded systems, and mechani
 ### 🦾 3D Mechanical Design  
 - All mechanical parts designed in **Fusion 360**.  
 - Fully 3D printable structure, customizable and modular.
-
+![mechanical parts1](fusion360-1.jpg)
+![mechanical parts2](fusion360-2.jpg)
 ### 🔌 Electronics  
 - **Servo motors** drive the hand's fingers.  
 - Designed for smooth and responsive actuation.

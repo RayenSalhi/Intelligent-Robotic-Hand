@@ -31,8 +31,8 @@ An academic project that combines computer vision, embedded systems, and mechani
 ---
 
 ## 🛠️ Tech Stack  
-- **Python** (OpenCV)  (gesture_recognition.py)
-- **STM32 HAL / CubeMX**  (STM32_code.c)
+- **Python** (OpenCV)  ([Gesture Recognition Code](gesture_recognition.py))
+- **STM32 HAL / CubeMX**  ([STM32 Code](STM32_code.c))
 - **Fusion 360**  
 - **Servo Motors**  
 - **UART / USB communication**

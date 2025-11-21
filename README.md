@@ -1,7 +1,9 @@
 # 🤖 Intelligent Robotic Hand  
 
-An academic project that combines computer vision, embedded systems, and mechanical design to control a robotic hand using real human hand gestures.
+
 ![Demo](Intelligent_Robotic_Hand_demo.gif)
+
+An academic project that combines computer vision, embedded systems, and mechanical design to control a robotic hand using real human hand gestures.
 ---
 
 ## 📡 Key Features
